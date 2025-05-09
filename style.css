@@ -1,4 +1,12 @@
     body{
     background: green;
     }  
-    
+    .texto{
+        font-size:2rem;
+        text-align:center;
+    }
+    .titulo{
+        font-size:3rem;
+        text-align: center;
+        color:rgb(164, 247, 171)
+    }
