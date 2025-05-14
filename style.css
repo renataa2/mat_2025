@@ -2,6 +2,7 @@
     background: green;
     }  
     .texto{
+        line-height: 2px;
         font-size:2rem;
         text-align:center;
     }
