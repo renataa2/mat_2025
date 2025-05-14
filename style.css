@@ -2,7 +2,7 @@
     background: green;
     }  
     .texto{
-        line-height: 2px;
+        line-height:2px;
         font-size:2rem;
         text-align:center;
     }
@@ -10,4 +10,7 @@
         font-size:3rem;
         text-align: center;
         color:rgb(164, 247, 171)
+    }
+    .espacamento{
+line-height:2px;
     }
