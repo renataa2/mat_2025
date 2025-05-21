@@ -1,19 +1,10 @@
     body{
     background:beige;
     background-image: url(image\ 10.png);
-    }  
-    .texto{
         line-height:2px;
         font-size:2rem;
         text-align:center;
-    }
-    .titulo{
-        font-size:3rem;
-        text-align: center;
-        color:black;
-    }
-    .espacamento{
-line-height:2px;
+        color:black
     }
     posicao{
         text-align: center;
