@@ -1,5 +1,6 @@
     body{
     background:beige;
+    background-image: url(image\ 10.png);
     }  
     .texto{
         line-height:2px;
